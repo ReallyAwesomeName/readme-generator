@@ -39,6 +39,12 @@ function buildReadme(data) {
 
 ${data.projectDescription}
 
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+
 ## Installation
 
 ${data.installationInstructions}
