@@ -6,7 +6,6 @@ builds README.md file from user CLI input
 
 ## Table of Contents
 
-- [readme-generator](#readme-generator)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
